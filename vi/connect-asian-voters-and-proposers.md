@@ -75,5 +75,5 @@ Tôi tin rằng sẽ có nhiều cách hiệu quả để đạt được mục 
 Vì vậy, hãy giúp chúng tôi hỗ trợ quyết định bỏ phiếu ở Bán cầu phía Đông bằng cách làm cho việc bỏ phiếu của Catalyst đơn giản hơn.
 
 20
-00:01:47,750 ---> 00:01:49,083
+00:01:47,750 --> 00:01:49,083
 Xin cám ơn rất nhiều

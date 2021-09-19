@@ -5,8 +5,10 @@ Xin chào cộng đồng Cardano, tên tôi là Yan
 2
 00:00:08,320 --> 00:00:12,639
 một đại diện của thị trấn phía đông
+Hội trường 
 
-Hội trường 3 00:00:10,240 --> 00:00:14,480
+3
+00:00:10,240 --> 00:00:14,480
 và cũng là một người khởi nghiệp
 
 4
@@ -199,7 +201,8 @@ gặp gỡ họ ở quốc gia họ đang ở
 ngôn ngữ và văn hóa của họ
 
 51
-00:02:05,500 -&gt; 00:02:10,099, nơi họ có thể chia sẻ kiến thức
+00:02:05,500 --> 00:02:10,099
+nơi họ có thể chia sẻ kiến thức
 
 52
 00:02:07,759 --> 00:02:11,200

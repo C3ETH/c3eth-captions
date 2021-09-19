@@ -1,92 +1,79 @@
 1
 00:00:04,000 --> 00:00:07,208
-Hello everyone my name is Mie and I am from Vietnam.
+Xin chào mọi người, tôi tên là Mie và tôi đến từ Việt Nam.
 
 2
 00:00:07,541 --> 00:00:12,500
-My name is Tien and I'm from Vietnam. We are part of the 
-Cardano Eastern Townhall 
+Tôi tên Tiến, đến từ Việt Nam. Chúng tôi là thành viên của Eastern Townhall
 
 3
 00:00:13,000 --> 00:00:17,625
-Also the moderator and translator of the Vietnam Townhall.
+Đồng thời là người điều hành và phiên dịch của Tòa thị chính Việt Nam.
 
 4
 00:00:18,458 --> 00:00:26,083
-It’s exciting that Cardano has spread its wing to East Asia 
-and create more opportunities and roles to equalize
+Thật thú vị khi Cardano đã vươn cánh sang khu vực Đông Á và tạo ra nhiều cơ hội và vai trò hơn để bình đẳng hoá
 
 5
 00:00:26,083 --> 00:00:29,083
-the community and build up the decentralization system. 
+cộng đồng và xây dựng hệ thống phi tập trung.
 
 6
 00:00:29,291 --> 00:00:31,583
-It connects East Asia with the world.
+Nó kết nối Đông Á với toàn thế giới.
 
 7
 00:00:32,250 --> 00:00:37,833
-Catalyst project is growing fast with the number of 
-proposals increasing double every fund
+Dự án Catalyst đang phát triển nhanh chóng với số lượng đề xuất tăng gấp đôi mỗi quỹ
 
 8
 00:00:37,833 --> 00:00:45,250
-if we could optimize all the votes from ADA holders, the 
-chance you get funded for a project is higher. 
+nếu chúng tôi có thể tối ưu hóa tất cả các phiếu bầu từ những người nắm giữ ADA, cơ hội bạn được tài trợ cho một dự án sẽ cao hơn.
 
 9
 00:00:45,250 --> 00:00:49,541
-Especially when the majority of the ADA holder is in Asia
+Đặc biệt khi phần lớn người nắm giữ ADA là ở Châu Á
 
 10
 00:00:49,916 --> 00:00:54,291
-However, there is a language barrier for those non-native 
-English-speaking countries. 
+Tuy nhiên, có những rào cản ngôn ngữ đối với những quốc gia không nói tiếng Anh.
 
 11
 00:00:54,291 --> 00:01:00,500
-It is difficult for them to fully understand the insight of 
-the proposal and might easily overlook them
+Họ khó có thể hiểu hết được nội dung sâu sắc của đề xuất và có thể dễ dàng bỏ qua chúng
 
 12
 00:01:00,500 --> 00:01:02,958
-and only vote along with the crowd.
+và chỉ bỏ phiếu theo số đông.
 
 13
 00:01:02,958 --> 00:01:08,458
-Our proposal is "Connecting Asian Voters and Proposers."
+Đề xuất của chúng tôi là "Kết nối các cử tri và người đề xuất châu Á."
 
 14
-00:01:08,458 --> 00:01:17,125
-Our goal is to establish a process, format, and event stage 
-for voter and proposer onboarding. 
+00:01:08.458 --> 00:01:17,125
+Mục tiêu của chúng tôi là thiết lập một quy trình, khuôn mẫu và các sự kiện để kết nối người bình chọn và người đề xuất.
 
 15
 00:01:17,250 --> 00:01:22,666
-To bring voters, proposers, and proposals closer together by
- building trust between them. 
+Để đưa người bầu chọn, người đề xuất và đề xuất đến gần nhau hơn bằng cách xây dựng lòng tin giữa họ.
 
 16
 00:01:23,000 --> 00:01:29,833
-This can be approached in many ways help ADA holders 
-understand why it is important to vote
+Điều này có thể được tiếp cận theo nhiều cách và giúp người nắm giữ ADA hiểu tại sao việc bỏ phiếu lại quan trọng
 
 17
 00:01:29,833 --> 00:01:35,666
-give translation guidelines, socialize content, and conduct 
-routine surveys.
+cung cấp hướng dẫn dịch thuật, xã hội hóa nội dung và thực hiện các cuộc khảo sát định kỳ.
 
 18
 00:01:35,666 --> 00:01:41,958
-I believe there will be many efficient ways to achieve the 
-goal and you might be the one to bring it up. 
+Tôi tin rằng sẽ có nhiều cách hiệu quả để đạt được mục tiêu này và bạn có thể là người thực hiện được nó.
 
 19
 00:01:41,958 --> 00:01:47,750
-So help us improve decision-making across the Eastern 
-Hemisphere by making Catalyst voting more accessible.
+Vì vậy, hãy giúp chúng tôi hỗ trợ quyết định bỏ phiếu ở Bán cầu phía Đông bằng cách làm cho việc bỏ phiếu của Catalyst đơn giản hơn.
 
 20
-00:01:47,750 --> 00:01:49,083
-Thank you very much
-
+00:01:47,750 ---> 00:01:49,083
+Xin cám ơn rất nhiều

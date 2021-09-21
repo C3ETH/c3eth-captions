@@ -8,57 +8,48 @@ Xin chào tên tôi là tim
 
 3
 01:00:08,750 --> 01:00:11,916
-The grow east asia grow, cardano proposal is for me.
+đề xuất Khu vực Đông Á đang phát triển và đề xuất của  tôi.
 
 4
 01:00:11,916 --> 01:00:15,875
-one of the most important proposed categories in fund 7.
+một trong những danh mục được đề xuất quan trọng nhất trong vòng cấp vốn số 7.
 
 5
 01:00:15,958 --> 01:00:23,416
-As a moderator of the eastern townhall. I meet every day 
-with experienced bright creatives who have unique solutions
+Là người điều hành của thị trấn phía đông. Tôi gặp gỡ mỗi ngày với những nhà sáng tạo sáng giá có kinh nghiệm, những người có các giải pháp độc đáo
 
 6
 01:00:23,416 --> 01:00:27,500
- that fit the needs of their local economies and culture.
+phù hợp với nhu cầu của nền kinh tế và văn hóa địa phương của họ.
 
 7
 01:00:27,500 --> 01:00:35,083
-Everything from the complex distributed exchanges and NFT 
-product that address food traceablity.
+Mọi thứ từ các sàn giao dịch phân tán phức tạp hay sản phẩm NFT giải quyết vấn đề xác định nguồn gốc thực phẩm.
 
 8
 01:00:35,083 --> 01:00:39,208
-With a mixture of, on the one hand a mature economy of Japan
-  
+Sự pha trộn là một mặt là nền kinh tế trưởng thành của Nhật Bản
 
 9
 01:00:39,208 --> 01:00:43,833
-and areas of hyper-growth on the other like Vietnam and 
-Indonesia. 
+và các khu vực đang phát triển siêu tốc như Việt Nam và Indonesia.
 
 10
 01:00:43,833 --> 01:00:47,916
-South East Asia is the perfect place to extend the reach of 
-Cardano.
+Đông Nam Á là nơi hoàn hảo để mở rộng phạm vi hoạt động của Cardano.
 
 11
 01:00:47,916 --> 01:00:52,125
-South East Asia's rich and diverse cultures and economic 
-systems
+Nền văn hóa và kinh tế đa dạng, phong phú của Đông Nam Á
 
 12
 01:00:52,125 --> 01:00:56,458
-really warrant having there own fun that target local 
-challenges.
+thực sự đảm bảo có những thú vị riêng khi thực hiện những thách thức địa phương.
 
 13
 01:00:56,458 --> 01:01:00,791
-If you agree please vote for grow south east asia grow 
-cardano.
+Nếu bạn đồng ý, vui lòng bỏ phiếu cho grow cardano đông nam á.
 
 14
 01:01:00,791 --> 01:01:01,458
-Thank you.
-
+Xin cảm ơn.

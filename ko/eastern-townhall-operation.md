@@ -1,96 +1,39 @@
-1
-00:00:04,583 --> 00:00:08,833
-Hello This  is “Eastern Townhall Team Operation” Team!
+1 00:00:04,583 --&gt; 00:00:08,833 안녕하세요 "동부구청 운영팀" 입니다!
 
-2
-00:00:09,833 --> 00:00:12,333
-Our Problem statement is that
+2 00:00:09,833 --&gt; 00:00:12,333 문제 진술은
 
-3
-00:00:12,333 --> 00:00:21,125
-Participating in Catalyst is difficult when you live in the 
-eastern time zone and your language is not English.
+3 00:00:12,333 --&gt; 00:00:21,125 동부 시간대에 거주하고 언어가 영어가 아닌 경우 Catalyst에 참여하기 어렵습니다.
 
-4
-00:00:21,125 --> 00:00:25,541
-For example, in a survey conducted by the Japanese 
-community.
+4 00:00:21,125 --&gt; 00:00:25,541 예를 들어 일본 커뮤니티에서 실시한 설문 조사에서.
 
-5
-00:00:25,541 --> 00:00:32,000
-half said that lack of translation was the biggest problem 
-for Catalyst.
+5 00:00:25,541 --&gt; 00:00:32,000 절반은 번역 부족이 Catalyst의 가장 큰 문제라고 말했습니다.
 
-6
-00:00:32,291 --> 00:00:39,541
-Normal town halls are in the eastern hemisphere at midnight.
+6 00:00:32,291 --&gt; 00:00:39,541 일반 시청은 자정에 동반구에 있습니다.
 
-7
-00:00:39,833 --> 00:00:48,416
-And, Thirty percent of Japanese voting participants vote 
-randomly without thinking just to get paid.
+7 00:00:39,833 --&gt; 00:00:48,416 그리고 일본 투표 참가자의 30%는 단순히 돈을 벌 생각 없이 무작위로 투표합니다.
 
-8
-00:00:48,583 --> 00:00:57,833
-The solution to that is Eastern Townhall supports eastern 
-countries with events, and translating content.
+8 00:00:48,583 --&gt; 00:00:57,833 이스턴 시청은 이벤트와 번역 콘텐츠를 통해 동부 국가를 지원합니다.
 
-9
-00:00:58,333 --> 00:01:08,208
-The aim is to increase participants by 20% for each fund.
+9 00:00:58,333 --&gt; 00:01:08,208 목표는 각 펀드에 대해 참가자를 20% 늘리는 것입니다.
 
-10
-00:01:08,541 --> 00:01:15,333
-As a related experience our team is made up of people from 
-diverse backgrounds.
+10 00:01:08,541 --&gt; 00:01:15,333 관련 경험으로 우리 팀은 다양한 배경을 가진 사람들로 구성되어 있습니다.
 
-11
-00:01:15,583 --> 00:01:21,500
-Co-Founders of Catalyst Swarm, Eastern Townhall, Catalyst 
-School. 
+11 00:01:15,583 --&gt; 00:01:21,500 Catalyst Swarm의 공동 창립자, 동부 시청, Catalyst School.
 
-12
-00:01:21,500 --> 00:01:28,291
-T & Software Engineering. educators and accountant in East 
-Asia & Japan.
+12 00:01:21,500 --&gt; 00:01:28,291 T 및 소프트웨어 엔지니어링. 동아시아 및 일본의 교육자 및 회계사.
 
-13
-00:01:28,500 --> 00:01:35,291
-This activity has already begun and the sixth meetup has 
-already taken place.
+13 00:01:28,500 --&gt; 00:01:35,291 이 활동은 이미 시작되었으며 여섯 번째 모임이 이미 진행되었습니다.
 
-14
-00:01:36,250 --> 00:01:40,625
-Again, Due to linguistic barriers, a survey of the Japanese 
-community
+14 00:01:36,250 --&gt; 00:01:40,625 다시, 언어 장벽으로 인해 일본 커뮤니티에 대한 조사
 
-15
-00:01:40,625 --> 00:01:46,666
-that 30% of voters vote randomly without looking at the 
-proposal.
+15 00:01:40,625 --&gt; 00:01:46,666 유권자의 30%가 제안을 보지 않고 무작위로 투표합니다.
 
-16
-00:01:46,666 --> 00:01:55,541
-The fact that East Asia is the birthplace of Cardano and has
- many ADAs
+16 00:01:46,666 --&gt; 00:01:55,541 동아시아가 카르다노의 발상지이며 ADA가 많다는 사실
 
-17
-00:01:55,541 --> 00:02:05,375
-Given these, helping the Eastern Hemisphere participate in 
-Catalyst is a very urgent and important issue for the honest
+17 00:01:55,541 --&gt; 00:02:05,375 이러한 점을 감안할 때, 동반구가 Catalyst에 참여하도록 돕는 것은 정직한 사람에게 매우 시급하고 중요한 문제입니다.
 
-18
-00:02:05,375 --> 00:02:14,750
-Proposers of the Not only for the eastern hemisphere but 
-also for the western hemisphere.
+18 00:02:05,375 --&gt; 00:02:14,750 동반구뿐만 아니라 서반구를 위한 제안자.
 
-19
-00:02:14,750 --> 00:02:22,125
-We will increase the quantity and quality of participants in
- the Eastern Hemisphere region.
+19 00:02:14,750 --&gt; 00:02:22,125 동반구 지역 참가자의 양과 질을 높입니다.
 
-20
-00:02:22,125 --> 00:02:32,083
-Thank you for the opportunity to present at the wonderful 
-summit. Let's liven up Catalyst together! Thank you.
-
+20 00:02:22,125 --&gt; 00:02:32,083 멋진 정상 회담에서 발표할 기회를 주셔서 감사합니다. 함께 Catalyst에 활기를 불어넣자! 감사합니다.

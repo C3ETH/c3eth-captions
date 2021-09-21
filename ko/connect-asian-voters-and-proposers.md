@@ -1,92 +1,39 @@
-1
-00:00:04,000 --> 00:00:07,208
-Hello everyone my name is Mie and I am from Vietnam.
+1 00:00:04,000 --&gt; 00:00:07,208 안녕하세요 여러분 제 이름은 미에이고 베트남 사람입니다.
 
-2
-00:00:07,541 --> 00:00:12,500
-My name is Tien and I'm from Vietnam. We are part of the 
-Cardano Eastern Townhall 
+2 00:00:07,541 --&gt; 00:00:12,500 제 이름은 Tien이고 베트남 사람입니다. 우리는 Cardano 동부 시청의 일부입니다
 
-3
-00:00:13,000 --> 00:00:17,625
-Also the moderator and translator of the Vietnam Townhall.
+3 00:00:13,000 --&gt; 00:00:17,625 베트남 시청의 사회자이자 번역가이기도 합니다.
 
-4
-00:00:18,458 --> 00:00:26,083
-It’s exciting that Cardano has spread its wing to East Asia 
-and create more opportunities and roles to equalize
+4 00:00:18,458 --&gt; 00:00:26,083 Cardano가 동아시아에 날개를 펴고 동아시아에 더 많은 기회와 역할을 창출하여
 
-5
-00:00:26,083 --> 00:00:29,083
-the community and build up the decentralization system. 
+5 00:00:26,083 --&gt; 00:00:29,083 커뮤니티를 만들고 탈중앙화 시스템을 구축합니다.
 
-6
-00:00:29,291 --> 00:00:31,583
-It connects East Asia with the world.
+6 00:00:29,291 --&gt; 00:00:31,583 동아시아와 세계를 연결합니다.
 
-7
-00:00:32,250 --> 00:00:37,833
-Catalyst project is growing fast with the number of 
-proposals increasing double every fund
+7 00:00:32,250 --&gt; 00:00:37,833 Catalyst 프로젝트는 펀드마다 제안 수가 두 배로 증가하면서 빠르게 성장하고 있습니다.
 
-8
-00:00:37,833 --> 00:00:45,250
-if we could optimize all the votes from ADA holders, the 
-chance you get funded for a project is higher. 
+8 00:00:37,833 --&gt; 00:00:45,250 ADA 보유자의 모든 투표를 최적화할 수 있다면 프로젝트에 대한 자금 지원을 받을 가능성이 더 높아집니다.
 
-9
-00:00:45,250 --> 00:00:49,541
-Especially when the majority of the ADA holder is in Asia
+9 00:00:45,250 --&gt; 00:00:49,541 특히 ADA 보유자의 대다수가 아시아에 있는 경우
 
-10
-00:00:49,916 --> 00:00:54,291
-However, there is a language barrier for those non-native 
-English-speaking countries. 
+10 00:00:49,916 --&gt; 00:00:54,291 그러나 영어가 모국어가 아닌 국가에는 언어 장벽이 있습니다.
 
-11
-00:00:54,291 --> 00:01:00,500
-It is difficult for them to fully understand the insight of 
-the proposal and might easily overlook them
+11 00:00:54,291 --&gt; 00:01:00,500 제안의 통찰력을 완전히 이해하기 어렵고 쉽게 간과할 수 있음
 
-12
-00:01:00,500 --> 00:01:02,958
-and only vote along with the crowd.
+12 00:01:00,500 --&gt; 00:01:02,958 군중과 함께 투표하십시오.
 
-13
-00:01:02,958 --> 00:01:08,458
-Our proposal is "Connecting Asian Voters and Proposers."
+13 00:01:02,958 --&gt; 00:01:08,458 우리의 제안은 "아시아 유권자와 제안자를 연결하는 것"입니다.
 
-14
-00:01:08,458 --> 00:01:17,125
-Our goal is to establish a process, format, and event stage 
-for voter and proposer onboarding. 
+14 00:01:08,458 --&gt; 00:01:17,125 우리의 목표는 유권자 및 제안자 온보딩을 위한 프로세스, 형식 및 이벤트 단계를 설정하는 것입니다.
 
-15
-00:01:17,250 --> 00:01:22,666
-To bring voters, proposers, and proposals closer together by
- building trust between them. 
+15 00:01:17,250 --&gt; 00:01:22,666 유권자, 제안자 및 제안자 간에 신뢰를 구축하여 더 가깝게 만듭니다.
 
-16
-00:01:23,000 --> 00:01:29,833
-This can be approached in many ways help ADA holders 
-understand why it is important to vote
+16 00:01:23,000 --&gt; 00:01:29,833 이것은 ADA 보유자가 투표가 중요한 이유를 이해하는 데 도움이 되는 여러 가지 방법으로 접근할 수 있습니다.
 
-17
-00:01:29,833 --> 00:01:35,666
-give translation guidelines, socialize content, and conduct 
-routine surveys.
+17 00:01:29,833 --&gt; 00:01:35,666 번역 지침을 제공하고 콘텐츠를 공유하며 일상적인 설문조사를 수행합니다.
 
-18
-00:01:35,666 --> 00:01:41,958
-I believe there will be many efficient ways to achieve the 
-goal and you might be the one to bring it up. 
+18 00:01:35,666 --&gt; 00:01:41,958 목표를 달성하는 데 효율적인 방법이 많이 있을 것이며 당신이 그 목표를 달성할 수 있을 것이라고 믿습니다.
 
-19
-00:01:41,958 --> 00:01:47,750
-So help us improve decision-making across the Eastern 
-Hemisphere by making Catalyst voting more accessible.
+19 00:01:41,958 --&gt; 00:01:47,750 Catalyst 투표에 더 쉽게 접근할 수 있도록 하여 동반구 전역에서 의사 결정을 개선할 수 있도록 도와주세요.
 
-20
-00:01:47,750 --> 00:01:49,083
-Thank you very much
-
+20 00:01:47,750 --&gt; 00:01:49,083 정말 감사합니다

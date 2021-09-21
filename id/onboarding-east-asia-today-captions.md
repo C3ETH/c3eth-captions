@@ -1,125 +1,125 @@
 1 00:00:05,625 --&gt; 00:00:10,333 Kia ora koutou katoa, saya Robert O'Brien, anggota tim Eastern Town Hall,
 
-2 00:00:10,333 --&gt; 00:00:12,291 from Aotearoa, New Zealand.
+2 00:00:10,333 --&gt; 00:00:12.291 dari Aotearoa, Selandia Baru.
 
 3 00:00:12,916 --&gt; 00:00:19,250 Dalam tantangan Fund 6, sumber dokumen multibahasa, Eastern Town Hall memiliki proposal “Onboarding East Asia Today!”
 
-4 00:00:19,666 --&gt; 00:00:21,833 Asia is culturally diverse.
+4 00:00:19,666 --&gt; 00:00:21,833 Asia memiliki budaya yang beragam.
 
-5 00:00:21,833 --&gt; 00:00:26,541 The language, customs, technology adoption, and economic development covers the spectrum.
+5 00:00:21,833 --&gt; 00:00:26,541 Bahasa, adat istiadat, adopsi teknologi, dan perkembangan ekonomi mencakup seluruh spektrumnya.
 
-6 00:00:27,458 --&gt; 00:00:28,708 Two things stand out though.
+6 00:00:27,458 --&gt; 00:00:28,708 Ada dua hal yang menonjol.
 
-7 00:00:28,958 --&gt; 00:00:29,500 First.
+7 00:00:28,958 --&gt; 00:00:29,500 Pertama.
 
 8 00:00:30,166 --&gt; 00:00:32,333 Kecakapan bahasa Inggris yang berbeda-beda.
 
-9 00:00:32,333 --&gt; 00:00:35,375 Across Asia, English is not widely spoken,
+9 00:00:32,333 --&gt; 00:00:35,375 Di seluruh Asia, bahasa Inggris tidak digunakan secara luas,
 
-10 00:00:35,958 --&gt; 00:00:39,000 rather a web of regional dialects are used instead.
+10 00:00:35.958 --&gt; 00:00:39.000 alih-alih dialek regional yang justru digunakan.
 
 11 00:00:39,750 --&gt; 00:00:44,750 Kedua, komunitas di seluruh Asia ingin terlibat dalam ekosistem Cardano.
 
 12 00:00:45,208 --&gt; 00:00:51,458 Misalnya, meskipun populasinya besar, hanya segelintir proposal dari wilayah ini yang telah mengajukan ke Project Catalyst.
 
-13 00:00:51,833 --&gt; 00:00:55,750 The language barrier introduces friction, reducing participation.
+13 00:00:51,833 --&gt; 00:00:55,750 Hambatan bahasa menimbulkan gesekan, mengurangi partisipasi.
 
-14 00:00:56,375 --&gt; 00:01:01,875 We want to embrace the energy and perspectives of non-English speaking communities across Cardano.
+14 00:00:56,375 --&gt; 00:01:01,875 Kami ingin merangkul energi dan perspektif komunitas yang tidak sepenuhnya bisa berbahasa Inggris di Cardano.
 
-15 00:01:02,291 --&gt; 00:01:08,958 A step toward that is to translate and localise content into the languages of the East Asian region and beyond.
+15 00:01:02,291 --&gt; 00:01:08,958 Langkah menuju itu adalah menerjemahkan dan melokalkan konten ke dalam bahasa-bahasa di kawasan Asia Timur dan sekitarnya.
 
-16 00:01:08,958 --&gt; 00:01:11,250 Or go the other way, into English.
+16 00:01:08,958 --&gt; 00:01:11,250 Atau sebaliknya, ke dalam bahasa Inggris.
 
-17 00:01:11,250 --&gt; 00:01:12,500 That is not a small undertaking.
+17 00:01:11,250 --&gt; 00:01:12,500 Itu bukan usaha kecil.
 
-18 00:01:13,208 --&gt; 00:01:19,708 Our proposal is seeking funding to build and document an open-source streamlined process for content translation.
+18 00:01:13,208 --&gt; 00:01:19,708 Proposal kami ditujukan untuk mencari dana sehingga dapat membangun dan mendokumentasikan proses open-source yang disederhanakan untuk penerjemahan konten.
 
-19 00:01:19,708 --&gt; 00:01:22,791 To coordinate and make the translation process easier.
+19 00:01:19,708 --&gt; 00:01:22,791 Untuk mengkoordinasikan dan mempermudah proses penerjemahan.
 
-20 00:01:22,791 --&gt; 00:01:25,125 To do that we're setting up a workflow with the aim of
+20 00:01:22,791 --&gt; 00:01:25,125 Untuk melakukan itu, kami menyiapkan alur kerja dengan tujuan
 
-21 00:01:25,125 --&gt; 00:01:32,750 getting the community at large to translate documentation, guides and, yes, Catalyst proposals.
+21 00:01:25,125 --&gt; 00:01:32,750 membuat komunitas menerjemahkan dokumentasi, panduan, dan juga proposal Catalyst.
 
-22 00:01:32,750 --&gt; 00:01:39,500 We already have a simple process set up using open-source development tools - git, Hugo and GitHub actions.
+22 00:01:32,750 --&gt; 00:01:39,500 Kami telah menyiapkan proses sederhana menggunakan alat open-source seperti Git, Hugo, dan GitHub.
 
-23 00:01:39,500 --&gt; 00:01:46,291 Our new website is constantly evolving and we are translating the content as we go with these tools.
+23 00:01:39,500 --&gt; 00:01:46,291 Situs web baru kami terus berkembang dan kami menerjemahkan konten kami menggunakan alat ini.
 
-24 00:01:46,291 --&gt; 00:01:48,041 Learning by doing.
+24 00:01:46,291 --&gt; 00:01:48,041 Belajar sambil melakukan.
 
-25 00:01:48,333 --&gt; 00:01:53,958 Try it out and view this proposal in English, Japanese, Korean, Indonesian, and Vietnamese.
+25 00:01:48,333 --&gt; 00:01:53,958 Coba dan lihat proposal ini dalam bahasa Inggris, Jepang, Korea, Indonesia, dan Vietnam.
 
-26 00:01:54,250 --&gt; 00:01:57,750 This video also has captions for all those languages too.
+26 00:01:54,250 --&gt; 00:01:57,750 Video ini juga memiliki teks untuk semua bahasa tersebut.
 
-27 00:01:58,625 --&gt; 00:02:01,583 And each fund 6 proposal that you'll find on our website,
+27 00:01:58,625 --&gt; 00:02:01,583 Dan setiap proposal Fund 6 yang akan Anda temukan di website kami,
 
-28 00:02:02,041 --&gt; 00:02:02,541 Well,
+28 00:02:02,041 --&gt; 00:02:02,541 Nah,
 
 29 00:02:02,791 --&gt; 00:02:07,875 mereka dikembangkan, diusulkan, dan disajikan dengan perspektif anggota tim Eastern Town Hall kami.
 
-30 00:02:08,291 --&gt; 00:02:10,708 Designed to meet our local needs.
+30 00:02:08,291 --&gt; 00:02:10,708 Dirancang untuk memenuhi kebutuhan komunitas lokal kita.
 
-31 00:02:10,875 --&gt; 00:02:15,625 We want to do more, so we need to improve upon our current practice.
+31 00:02:10,875 --&gt; 00:02:15,625 Kami ingin berbuat lebih banyak, jadi kami perlu meningkatkan pekerjaan kami saat ini.
 
-32 00:02:15,625 --&gt; 00:02:22,791 Cardano and Catalyst content grows with every fund so automating as much as possible helps us scale.
+32 00:02:15,625 --&gt; 00:02:22,791 Konten Cardano dan Catalyst tumbuh dengan setiap dana sehingga mengotomatisasi sebanyak mungkin untuk membantu kami berkembang.
 
-33 00:02:22,791 --&gt; 00:02:28,791 We want to queue up a piece of work for translation and enable everyone and anyone to contribute.
+33 00:02:22,791 --&gt; 00:02:28,791 Kami ingin mengantrekan sebuah karya untuk diterjemahkan dan memungkinkan semua orang dan siapa saja untuk berkontribusi.
 
-34 00:02:29,250 --&gt; 00:02:33,166 That way we can leverage the communities talent and knowledge to help.
+34 00:02:29,250 --&gt; 00:02:33,166 Dengan begitu kita dapat memanfaatkan bakat dan pengetahuan komunitas untuk membantu.
 
-35 00:02:33,416 --&gt; 00:02:39,333 But we have to start small first, experiment, and find what works before scaling out.
+35 00:02:33,416 --&gt; 00:02:39,333 Tapi kita harus mulai dari yang kecil dulu, bereksperimen, dan menemukan apa yang berhasil sebelum berkembang.
 
-36 00:02:39,333 --&gt; 00:02:42,666 The Eastern Townhall is a collaborative effort.
+36 00:02:39,333 --&gt; 00:02:42,666 Eastern Town Hall adalah upaya kolaboratif bersama.
 
-37 00:02:42,958 --&gt; 00:02:46,791 The team represents a wealth of cultural and technical expertise.
+37 00:02:42.958 --&gt; 00:02:46.791 Tim mewakili kekayaan budaya dan keahlian teknis.
 
-38 00:02:47,208 --&gt; 00:02:51,666 Japan, Indonesia, Vietnam, Korea, Australia, New Zealand are all represented.
+38 00:02:47,208 --&gt; 00:02:51,666 Jepang, Indonesia, Vietnam, Korea, Australia, Selandia Baru semuanya terwakili.
 
-39 00:02:52,458 --&gt; 00:02:54,041 And more communities to come.
+39 00:02:52.458 --&gt; 00:02:54,041 Dan lebih banyak lagi komunitas yang akan datang.
 
-40 00:02:55,291 --&gt; 00:02:57,666 By virtue of running the Eastern Townhall, and other
+40 00:02:55,291 --&gt; 00:02:57,666 Berdasarkan menjalankan Eastern Town Hall, dan lainnya
 
 41 00:02:57.666 --&gt; 00:03:01,583 kelompok komunitas lainnya, kita semua aktif dalam eksperimen Catalyst.
 
-42 00:03:02,166 --&gt; 00:03:06,083 The team will be working on establishing a semi-automated translation pipeline.
+42 00:03:02,166 --&gt; 00:03:06,083 Tim akan bekerja membangun saluran terjemahan semi-otomatis.
 
-43 00:03:06,416 --&gt; 00:03:08,208 Starting with Git and Github.
+43 00:03:06,416 --&gt; 00:03:08,208 Dimulai dengan Git dan Github.
 
-44 00:03:08,625 --&gt; 00:03:13,333 We also want to document the process to make it easier to train translators.
+44 00:03:08,625 --&gt; 00:03:13,333 Kami juga ingin mendokumentasikan proses untuk mempermudah melatih penerjemah.
 
-45 00:03:13,333 --&gt; 00:03:20,208 Documentation, tutorials, video content will play a pivotal in onboarding new people with diverse backgrounds.
+45 00:03:13,333 --&gt; 00:03:20,208 Dokumentasi, tutorial, konten video akan sangat berperan penting dalam melakukan orientasi untuk orang baru dengan latar belakang yang beragam.
 
 46 00:03:20,750 --&gt; 00:03:26,625 Bersamaan dengan kita melakukan, kami akan mulai menambahkan lebih banyak bahasa, meminta anggota komunitas Cardano untuk membantu.
 
 47 00:03:27,208 --&gt; 00:03:30,291 Dalam jangka panjang, proyek itu sendiri dapat mandiri.
 
-48 00:03:30,291 --&gt; 00:03:37,083 Leveraging our expertise and services to other projects, proposals, DAO's or traditional businesses even.
+48 00:03:30,291 --&gt; 00:03:37,083 Memanfaatkan keahlian dan layanan kami untuk proyek, proposal, DAO, atau bisnis tradisional lainnya.
 
-49 00:03:37,083 --&gt; 00:03:38,750 Why not learn and earn?
+49 00:03:37,083 --&gt; 00:03:38,750 Mengapa tidak belajar dan menghasilkan?
 
-50 00:03:39,125 --&gt; 00:03:42,375 We have a blockchain accounting layer, so why not contribute
+50 00:03:39,125 --&gt; 00:03:42,375 Kami memiliki lapisan akuntansi blockchain, jadi mengapa tidak berkontribusi
 
-51 00:03:42,375 --&gt; 00:03:46,458 to the Cardano ecosystem via completion of translations tasks,
+51 00:03:42,375 --&gt; 00:03:46,458 ke ekosistem Cardano melalui penyelesaian tugas penerjemahan,
 
-52 00:03:46,458 --&gt; 00:03:49,833 learn at the same time, and earn some coin.
+52 00:03:46,458 --&gt; 00:03:49,833 belajar pada saat yang sama, dan dapatkan koin.
 
 53 00:03:49,833 --&gt; 00:03:51,958 Seperti apa kesuksesan itu,
 
-54 00:03:51,958 --&gt; 00:03:58,250 our metrics will be defined by the project's velocity and engagement happening during and after the initial funding.
+54 00:03:51,958 --&gt; 00:03:58,250 metrik kami akan ditentukan oleh kecepatan dan keterlibatan proyek yang terjadi selama dan setelah pendanaan awal.
 
 55 00:03:58,541 --&gt; 00:04:04,500 Karena kami menggunakan alat kolaborasi untuk perencanaan dan dokumentasi kami, metrik diambil dari aktivitas yang
 
-56 00:04:04,500 --&gt; 00:04:06,166 recorded with these tools.
+56 00:04:04,500 --&gt; 00:04:06,166 direkam dengan alat ini.
 
-57 00:04:06,375 --&gt; 00:04:08,500 We can also track project contributions.
+57 00:04:06,375 --&gt; 00:04:08,500 Kami juga dapat melacak kontribusi proyek.
 
-58 00:04:09,416 --&gt; 00:04:11,041 At least some aspects of it.
+58 00:04:09,416 --&gt; 00:04:11,041 Setidaknya beberapa aspeknya.
 
-59 00:04:11,041 --&gt; 00:04:17,041 So perhaps we'll start issuing NFT Badges for representing language skills and contributions to the community.
+59 00:04:11,041 --&gt; 00:04:17,041 Jadi mungkin kami akan mulai mengeluarkan Lencana NFT untuk mewakili keterampilan bahasa dan kontribusi kepada komunitas.
 
-60 00:04:17,541 --&gt; 00:04:18,416 In summary,
+60 00:04:17,541 --&gt; 00:04:18,416 Singkatnya,
 
-61 00:04:18,625 --&gt; 00:04:23,125 we will be building a translation pipeline to help engage with East Asian communities.
+61 00:04:18,625 --&gt; 00:04:23,125 kami akan membangun saluran terjemahan untuk membantu terlibat lebih banyak dengan komunitas di Asia Timur.
 
-62 00:04:23,791 --&gt; 00:04:26,875 Bridging the language and cultural barriers in our ecosystem.
+62 00:04:23.791 --&gt; 00:04:26,875 Menjembatani hambatan bahasa dan budaya di ekosistem kita.
 
-63 00:04:27,500 --&gt; 00:04:32,208 Helping us to participate and contribute to the success of the Cardano network.
+63 00:04:27,500 --&gt; 00:04:32,208 Membantu kami untuk berpartisipasi dan berkontribusi pada kesuksesan jaringan Cardano.

@@ -1,64 +1,27 @@
-1
-01:00:05,000 --> 01:00:06,500
-Hi i'm Tim O'Brien
+1 01:00:05,000 --&gt; 01:00:06,500 안녕하세요 저는 Tim O'Brien입니다.
 
-2
-01:00:06,500 --> 01:00:08,000
-Xin chào tên tôi là tim
+2 01:00:06,500 --&gt; 01:00:08,000 Xin chào tên tôi là tim
 
-3
-01:00:08,750 --> 01:00:11,916
-The grow east asia grow, cardano proposal is for me.
+3 01:00:08,750 --&gt; 01:00:11,916 동아시아 성장, 카르다노 제안은 저를 위한 것입니다.
 
-4
-01:00:11,916 --> 01:00:15,875
-one of the most important proposed categories in fund 7.
+4 01:00:11,916 --&gt; 01:00:15,875 펀드 7에서 제안된 가장 중요한 범주 중 하나입니다.
 
-5
-01:00:15,958 --> 01:00:23,416
-As a moderator of the eastern townhall. I meet every day 
-with experienced bright creatives who have unique solutions
+5 01:00:15,958 --&gt; 01:00:23,416 동부 시청의 사회자로. 독창적인 솔루션을 가진 경험 많은 밝고 창의적인 사람들과 매일 만납니다.
 
-6
-01:00:23,416 --> 01:00:27,500
- that fit the needs of their local economies and culture.
+6 01:00:23,416 --&gt; 01:00:27,500 지역 경제와 문화의 필요에 맞는
 
-7
-01:00:27,500 --> 01:00:35,083
-Everything from the complex distributed exchanges and NFT 
-product that address food traceablity.
+7 01:00:27,500 --&gt; 01:00:35,083 식품 추적을 다루는 복잡한 분산 거래소 및 NFT 제품의 모든 것.
 
-8
-01:00:35,083 --> 01:00:39,208
-With a mixture of, on the one hand a mature economy of Japan
-  
+8 01:00:35,083 --&gt; 01:00:39,208 한편으로는 일본의 성숙한 경제
 
-9
-01:00:39,208 --> 01:00:43,833
-and areas of hyper-growth on the other like Vietnam and 
-Indonesia. 
+9 01:00:39,208 --&gt; 01:00:43,833 베트남과 인도네시아와 같이 초성장 지역입니다.
 
-10
-01:00:43,833 --> 01:00:47,916
-South East Asia is the perfect place to extend the reach of 
-Cardano.
+10 01:00:43,833 --&gt; 01:00:47,916 동남아시아는 Cardano의 범위를 확장하기에 완벽한 장소입니다.
 
-11
-01:00:47,916 --> 01:00:52,125
-South East Asia's rich and diverse cultures and economic 
-systems
+11 01:00:47,916 --&gt; 01:00:52,125 동남아시아의 풍부하고 다양한 문화와 경제 시스템
 
-12
-01:00:52,125 --> 01:00:56,458
-really warrant having there own fun that target local 
-challenges.
+12 01:00:52,125 --&gt; 01:00:56,458 지역 문제를 목표로 하는 자체 재미가 보장됩니다.
 
-13
-01:00:56,458 --> 01:01:00,791
-If you agree please vote for grow south east asia grow 
-cardano.
+13 01:00:56,458 --&gt; 01:01:00,791 동의하시면 동남아 성장 카르다노에 투표하세요.
 
-14
-01:01:00,791 --> 01:01:01,458
-Thank you.
-
+14 01:01:00,791 --&gt; 01:01:01,458 감사합니다.

@@ -1,6 +1,6 @@
 ---
 name: :globe_with_meridians: Video Caption Translation
-about: Translating the captions of a video into the core languages of the Eastern Townhall.
+description: Translating the captions of a video into the core languages of the Eastern Townhall.
 title: :globe_with_meridians: Caption translation of <VIDEO NAME>
 labels: ["Translation", "Japanese", "Indonesian", "Korean", "Vietnamese", "English"]
 assignees:

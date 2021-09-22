@@ -24,7 +24,7 @@ Thanks goes to these wonderful contributors (see [emoji key](https://allcontribu
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-## License ![GitHub](https://img.shields.io/github/license/c3eth/c3eth-captions)
+## License ![CC BY-NA-SA](https://img.shields.io/badge/license-CC%20BY--NA--SA%204.0-green)
 
 The published content in the repository `c3eth/c3eth-captions` is licensed under the [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 

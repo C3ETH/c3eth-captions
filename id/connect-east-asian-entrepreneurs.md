@@ -1,225 +1,451 @@
-1 00:00:05,359 --&gt; 00:00:10,240 Halo warga Cardano nama saya Yan,
+1
+00:00:05,359 --> 00:00:10,240
+Halo warga Cardano nama saya Yan,
 
-2 00:00:08,320 --&gt; 00:00:12,639 perwakilan dari Eastern Townhall
+2
+00:00:08,320 --> 00:00:12,639
+perwakilan dari Eastern Townhall
 
-3 00:00:10,240 --&gt; 00:00:14,480 dan juga seorang entrepreneur.
+3
+00:00:10,240 --> 00:00:14,480
+dan juga seorang entrepreneur.
 
-4 00:00:12,639 --&gt; 00:00:17,440 Terima kasih atas waktu berhargamu
+4
+00:00:12,639 --> 00:00:17,440
+Terima kasih atas waktu berhargamu
 
-5 00:00:14,480 --&gt; 00:00:19,600 sangatlah dihargai. Telah menjadi niat saya
+5
+00:00:14,480 --> 00:00:19,600
+sangatlah dihargai. Telah menjadi niat saya
 
-6 00:00:17,440 --&gt; 00:00:22,160 untuk memberikan kepada Anda pemirsa
+6
+00:00:17,440 --> 00:00:22,160
+untuk memberikan kepada Anda pemirsa
 
-7 00:00:19,600 --&gt; 00:00:24.560 manifestasi semangat kami untuk menumbuhkan
+7
+00:00:19,600 --> 00:00:24,560
+manifestasi semangat kami untuk menumbuhkan
 
-8 00:00:22,160 --&gt; 00:00:26,000 Cardano hingga titik potensi kolaborasi maksimalnya.
+8
+00:00:22,160 --> 00:00:26,000
+Cardano hingga titik potensi kolaborasi maksimalnya.
 
-9 00:00:24,560 --&gt; 00:00:27,920
+9
+00:00:24,560 --> 00:00:27,920
 
-10 00:00:26,000 --&gt; 00:00:29,920 Proposal yang akan saya presentasikan kepada anda
 
-11 00:00:27,920 --&gt; 00:00:33,440 disebut menghubungkan diri dengan entrepreneur Asia Timur
+10
+00:00:26,000 --> 00:00:29,920
+Proposal yang akan saya presentasikan kepada anda
 
-12 00:00:29,920 --&gt; 00:00:36,399 dari Jepang, Korea,
+11
+00:00:27,920 --> 00:00:33,440
+disebut menghubungkan diri dengan entrepreneur Asia Timur
 
-13 00:00:33,440 --&gt; 00:00:37,520 Vietnam, Indonesia dan masih banyak lagi
+12
+00:00:29,920 --> 00:00:36,399
+dari Jepang, Korea,
 
-53 00:02:10,399 --&gt; 00:02:14,080 negara.
+13
+00:00:33,440 --> 00:00:37,520
+Vietnam, Indonesia dan masih banyak lagi
 
-15 00:00:37,520 --&gt; 00:00:42.079 Tema tantangan kami adalah kategori
+53
+00:02:10,399 --> 00:02:14,080
+negara.
 
-16 00:00:39,680 --&gt; 00:00:44,719 Penjangkauan proposal dengan permintaan dana
+15
+00:00:37,520 --> 00:00:42,079
+Tema tantangan kami adalah kategori
 
-17 00:00:42.079 --&gt; 00:00:46.879 dua puluh ribu dolar.
+16
+00:00:39,680 --> 00:00:44,719
+Penjangkauan proposal dengan permintaan dana
 
-18 00:00:44,719 --&gt; 00:00:49,360 Proposal ini adalah upaya bersama oleh
+17
+00:00:42,079 --> 00:00:46,879
+dua puluh ribu dolar.
 
-19 00:00:46,879 --&gt; 00:00:52,239 berbagai veteran Catalyst Project,
+18
+00:00:44,719 --> 00:00:49,360
+Proposal ini adalah upaya bersama oleh
 
-20 00:00:49,360 --&gt; 00:00:54,480 anggota komunitas yang telah berkumpul
+19
+00:00:46,879 --> 00:00:52,239
+berbagai veteran Catalyst Project,
 
-21 00:00:52,239 --&gt; 00:00:56,320 dan berkolaborasi dalam pembuatan
+20
+00:00:49,360 --> 00:00:54,480
+anggota komunitas yang telah berkumpul
 
-22 00:00:54,480 --&gt; 00:00:58,559 Eastern Townhall.
+21
+00:00:52,239 --> 00:00:56,320
+dan berkolaborasi dalam pembuatan
 
-23 00:00:56,320 --&gt; 00:01:00,879 Anda dapat berkomunikasi dengan kami secara bebas di
+22
+00:00:54,480 --> 00:00:58,559
+Eastern Townhall.
 
-24 00:00:58,559 --&gt; 00:01:02,879 berbagai saluran komunikasi kami yang mana Anda
+23
+00:00:56,320 --> 00:01:00,879
+Anda dapat berkomunikasi dengan kami secara bebas di
 
-25 00:01:00,879 --&gt; 00:01:05,760 dapat ditemukan di slide kami.
+24
+00:00:58,559 --> 00:01:02,879
+berbagai saluran komunikasi kami yang mana Anda
 
-26 00:01:02,879 --&gt; 00:01:08,240 Fondasi Eastern Townhall adalah
+25
+00:01:00,879 --> 00:01:05,760
+dapat ditemukan di slide kami.
 
-27 00:01:05,760 --&gt; 00:01:10,320 cikal bakal proposal ini.
+26
+00:01:02,879 --> 00:01:08,240
+Fondasi Eastern Townhall adalah
 
-28 00:01:08,240 --&gt; 00:01:12,320 Masalah yang kita dengan jelas
+27
+00:01:05,760 --> 00:01:10,320
+cikal bakal proposal ini.
 
-29 00:01:10,320 --&gt; 00:01:15,200 identifikasi adalah tidak ada
+28
+00:01:08,240 --> 00:01:12,320
+Masalah yang kita dengan jelas
 
-30 00:01:12,320 --&gt; 00:01:16,799 inisiatif untuk menarik dan melibatkan
+29
+00:01:10,320 --> 00:01:15,200
+identifikasi adalah tidak ada
 
-31 00:01:15,200 --&gt; 00:01:19,840 entrepreneur Asia Timur,
+30
+00:01:12,320 --> 00:01:16,799
+inisiatif untuk menarik dan melibatkan
 
-32 00:01:16,799 --&gt; 00:01:21,600 di mana mereka berada, dalam bahasa lokal mereka.
+31
+00:01:15,200 --> 00:01:19,840
+entrepreneur Asia Timur,
 
-33 00:01:19,840 --&gt; 00:01:23,360 Ini bisa dilihat dengan mudah di
+32
+00:01:16,799 --> 00:01:21,600
+di mana mereka berada, dalam bahasa lokal mereka.
 
-34 00:01:21,600 --&gt; 00:01:26,240 partisipasi dari entrepreneur
+33
+00:01:19,840 --> 00:01:23,360
+Ini bisa dilihat dengan mudah di
 
-34 00:01:21,600 --&gt; 00:01:26,240 dari Asia Timur dalam Project Catalyst.
+34
+00:01:21,600 --> 00:01:26,240
+partisipasi dari entrepreneur
 
-36 00:01:26,240 --&gt; 00:01:31,280 Fund 6 meskipun memecahkan rekor 800 plus
+34
+00:01:21,600 --> 00:01:26,240
+dari Asia Timur dalam Project Catalyst.
 
-37 00:01:29,439 --&gt; 00:01:34,720 proposal diajukan.
+36
+00:01:26,240 --> 00:01:31,280
+Fund 6 meskipun memecahkan rekor 800 plus
 
-38 00:01:31,280 --&gt; 00:01:37,200 Hanya ada 17 proposal dari Vietnam,
+37
+00:01:29,439 --> 00:01:34,720
+proposal diajukan.
 
-39 00:01:34,720 --&gt; 00:01:40,640 tujuh dari Jepang dan hanya satu dari
+38
+00:01:31,280 --> 00:01:37,200
+Hanya ada 17 proposal dari Vietnam,
 
-40 00:01:37,200 --&gt; 00:01:43,680 Indonesia, negara dengan 52 juta
+39
+00:01:34,720 --> 00:01:40,640
+tujuh dari Jepang dan hanya satu dari
 
-41 00:01:40,640 --&gt; 00:01:46,159 warga negara yang terjamin secara ekonomi.
+40
+00:01:37,200 --> 00:01:43,680
+Indonesia, negara dengan 52 juta
 
-42 00:01:43,680 --&gt; 00:01:48,720 Solusi bijaksana kami untuk masalah ini,
+41
+00:01:40,640 --> 00:01:46,159
+warga negara yang terjamin secara ekonomi.
 
-43 00:01:46,159 --&gt; 00:01:51,200 adalah dengan menggunakan Eastern Townhall dan
+42
+00:01:43,680 --> 00:01:48,720
+Solusi bijaksana kami untuk masalah ini,
 
-44 00:01:48,720 --&gt; 00:01:53,759 berbagai event virtual yang ditargetkan secara khusus
+43
+00:01:46,159 --> 00:01:51,200
+adalah dengan menggunakan Eastern Townhall dan
 
-45 00:01:51,200 --&gt; 00:01:56,560 untuk mendirikan dan mendukung
+44
+00:01:48,720 --> 00:01:53,759
+berbagai event virtual yang ditargetkan secara khusus
 
-46 00:01:53,759 --&gt; 00:01:59,040 jaringan entrepreneur Asia Timur.
+45
+00:01:51,200 --> 00:01:56,560
+untuk mendirikan dan mendukung
 
-47 00:01:56,560 --&gt; 00:02:00,320 Kami ingin menjangkau potensi mereka yang belum dimanfaatkan secara besar-besaran,
+46
+00:01:53,759 --> 00:01:59,040
+jaringan entrepreneur Asia Timur.
 
-48 00:01:59,040 --&gt; 00:02:02,159
+47
+00:01:56,560 --> 00:02:00,320
+Kami ingin menjangkau potensi mereka yang belum dimanfaatkan secara besar-besaran,
 
-49 00:02:00,320 --&gt; 00:02:05,600 temui mereka di tempat mereka berada,
+48
+00:01:59,040 --> 00:02:02,159
 
-50 00:02:02,159 --&gt; 00:02:07,759 dalam bahasa dan budaya mereka,
 
-51 00:02:05,600 --&gt; 00:02:10,399 dimana mereka dapat membangun pengetahuan berbagi
+49
+00:02:00,320 --> 00:02:05,600
+temui mereka di tempat mereka berada,
 
-52 00:02:07,759 --&gt; 00:02:11,200 informasi, saling terhubung dan mendukung
+50
+00:02:02,159 --> 00:02:07,759
+dalam bahasa dan budaya mereka,
 
-53 00:02:10,399 --&gt; 00:02:14,080 satu sama lain.
+51
+00:02:05,600 --> 00:02:10,399
+dimana mereka dapat membangun pengetahuan berbagi
 
-54 00:02:11,200 --&gt; 00:02:15,920 Berpikir global bertindak lokal. Tim
+52
+00:02:07,759 --> 00:02:11,200
+informasi, saling terhubung dan mendukung
 
-55 00:02:14,080 --&gt; 00:02:17,599 di balik semua upaya kolaboratif ini
+53
+00:02:10,399 --> 00:02:14,080
+satu sama lain.
 
-56 00:02:15,920 --&gt; 00:02:20,239 membawa kekayaan budaya dan
+54
+00:02:11,200 --> 00:02:15,920
+Berpikir global bertindak lokal. Tim
 
-57 00:02:17,599 --&gt; 00:02:22,720 pengalaman teknis kepada Cardano.
+55
+00:02:14,080 --> 00:02:17,599
+di balik semua upaya kolaboratif ini
 
-58 00:02:20,239 --&gt; 00:02:25,200 kita semua sangat aktif dalam Catalyst dan
+56
+00:02:15,920 --> 00:02:20,239
+membawa kekayaan budaya dan
 
-59 00:02:22,720 --&gt; 00:02:27,200 berbagai kelompok komunitas di seluruh ekosistem kita.
+57
+00:02:17,599 --> 00:02:22,720
+pengalaman teknis kepada Cardano.
 
-60 00:02:25,200 --&gt; 00:02:29,040 Kami adalah kelompok beragam yang disatukan oleh
+58
+00:02:20,239 --> 00:02:25,200
+kita semua sangat aktif dalam Catalyst dan
 
-61 00:02:27,200 --&gt; 00:02:31,519 janji Cardano.
+59
+00:02:22,720 --> 00:02:27,200
+berbagai kelompok komunitas di seluruh ekosistem kita.
 
-62 00:02:29,040 --&gt; 00:02:33,120 Kami memiliki Yuta dari Jepang,
+60
+00:02:25,200 --> 00:02:29,040
+Kami adalah kelompok beragam yang disatukan oleh
 
-63 00:02:31,519 --&gt; 00:02:36.080 duta besar Cardano dan akuntan publik bersertifikat.
+61
+00:02:27,200 --> 00:02:31,519
+janji Cardano.
 
-64 00:02:33,120 --&gt; 00:02:37,760 Ada saya sendiri dari Indonesia,
+62
+00:02:29,040 --> 00:02:33,120
+Kami memiliki Yuta dari Jepang,
 
-65 00:02:36,080 --&gt; 00:02:40,160 pemimpin komunitas Eastern Townhall
+63
+00:02:31,519 --> 00:02:36,080
+duta besar Cardano dan akuntan publik bersertifikat.
 
-66 00:02:37,760 --&gt; 00:02:42,640 untuk Indonesia dan seorang entrepreneur. Lalu kami ada
+64
+00:02:33,120 --> 00:02:37,760
+Ada saya sendiri dari Indonesia,
 
-67 00:02:40,160 --&gt; 00:02:44,319 Mietran dari Vietnam, lulusan sastra Inggris dan
+65
+00:02:36,080 --> 00:02:40,160
+pemimpin komunitas Eastern Townhall
 
-68 00:02:42,640 --&gt; 00:02:46,000 jurusan bisnis internasional dengan
+66
+00:02:37,760 --> 00:02:42,640
+untuk Indonesia dan seorang entrepreneur. Lalu kami ada
 
-69 00:02:44,319 --&gt; 00:02:48,720 pengalaman bekerja dengan bisnis negara barat..
+67
+00:02:40,160 --> 00:02:44,319
+Mietran dari Vietnam, lulusan sastra Inggris dan
 
-70 00:02:46.000 --&gt; 00:02:51,120  Kami ada Robert O'Brien dari
+68
+00:02:42,640 --> 00:02:46,000
+jurusan bisnis internasional dengan
 
-71 00:02:48,720 --&gt; 00:02:52,160 Selandia Baru, perekayasa perangkat lunak sistem keuangan,
+69
+00:02:44,319 --> 00:02:48,720
+pengalaman bekerja dengan bisnis negara barat..
 
-72 00:02:51,120 --&gt; 00:02:55,040
+70
+00:02:46.000 --> 00:02:51,120
+Kami ada Robert O'Brien dari
 
-73 00:02:52,160 --&gt; 00:02:57,200 pengelola komunitas dan entrepreneur.
+71
+00:02:48,720 --> 00:02:52,160
+Selandia Baru, perekayasa perangkat lunak sistem keuangan,
 
-74 00:02:55,040 --&gt; 00:02:59.519 Kita punya Felix Weber dari Perancis, seorang
+72
+00:02:51,120 --> 00:02:55,040
 
-75 00:02:57,200 --&gt; 00:03:01,920 pengelola komunitas yang membangun jembatan
 
-76 00:02:59.519 --&gt; 00:03:05,680 antara orang-orang, yang juga anggota Cardano
+73
+00:02:52,160 --> 00:02:57,200
+pengelola komunitas dan entrepreneur.
 
-77 00:03:01,920 --&gt; 00:03:07,920 Circle, Catalyst Swarm dan Catalyst School.
+74
+00:02:55,040 --> 00:02:59,519
+Kita punya Felix Weber dari Perancis, seorang
 
-78 00:03:05,680 --&gt; 00:03:10,400 Masih banyak anggota lainnya
+75
+00:02:57,200 --> 00:03:01,920
+pengelola komunitas yang membangun jembatan
 
-79 00:03:07,920 --&gt; 00:03:12,319 yang tidak bisa saya sebutkan hanya
+76
+00:02:59.519 --> 00:03:05,680
+antara orang-orang, yang juga anggota Cardano
 
-80 00:03:10,400 --&gt; 00:03:14.319 karena keterbatasan waktu.
+77
+00:03:01,920 --> 00:03:07,920
+Circle, Catalyst Swarm dan Catalyst School.
 
-81 00:03:12,319 --&gt; 00:03:18,080 Proposal kami adalah tentang menjalankan virtual
+78
+00:03:05,680 --> 00:03:10,400
+Masih banyak anggota lainnya
 
-82 00:03:14,319 --&gt; 00:03:20,400 event di bulan Januari atau Februari 2022 untuk
+79
+00:03:07,920 --> 00:03:12,319
+yang tidak bisa saya sebutkan hanya
 
-83 00:03:18,080 --&gt; 00:03:22,879 mengembangkan entrepreneur di Vietnam dan
+80
+00:03:10,400 --> 00:03:14,319
+karena keterbatasan waktu.
 
-84 00:03:20,400 --&gt; 00:03:24.640 Indonesia. Acara ini bertujuan untuk meningkatkan keterampilan
+81
+00:03:12,319 --> 00:03:18,080
+Proposal kami adalah tentang menjalankan virtual
 
-85 00:03:22,879 --&gt; 00:03:27,200 entrepreneur untuk mengembangkan peluang pasar
+82
+00:03:14,319 --> 00:03:20,400
+event di bulan Januari atau Februari 2022 untuk
 
-86 00:03:24.640 --&gt; 00:03:28,879 berdasarkan Cardano.
+83
+00:03:18,080 --> 00:03:22,879
+mengembangkan entrepreneur di Vietnam dan
 
-87 00:03:27,200 --&gt; 00:03:31,760 Tujuan acara ini adalah untuk membangun
+84
+00:03:20,400 --> 00:03:24,640
+Indonesia. Acara ini bertujuan untuk meningkatkan keterampilan
 
-88 00:03:28,879 --&gt; 00:03:34,799 pendiri start-up dan
+85
+00:03:22,879 --> 00:03:27,200
+entrepreneur untuk mengembangkan peluang pasar
 
-89 00:03:31,760 --&gt; 00:03:37,280 kolaborator organisasi terdistribusi otonom.
+86
+00:03:24.640 --> 00:03:28,879
+berdasarkan Cardano.
 
-90 00:03:34,799 --&gt; 00:03:39.599 Niat kami adalah untuk mendidik. Dengan fokus pada
+87
+00:03:27,200 --> 00:03:31,760
+Tujuan acara ini adalah untuk membangun
 
-91 00:03:37,280 --&gt; 00:03:41,840 pembelajaran berbasis pengalaman dengan menyediakan
+88
+00:03:28,879 --> 00:03:34,799
+pendiri start-up dan
 
-92 00:03:39.599 --&gt; 00:03:44,159 cara mudah bagi masyarakat umum untuk
+89
+00:03:31,760 --> 00:03:37,280
+kolaborator organisasi terdistribusi otonom.
 
-93 00:03:41,840 --&gt; 00:03:47,599 mengakses entrepreneurship dan blockchain
+90
+00:03:34,799 --> 00:03:39,599
+Niat kami adalah untuk mendidik. Dengan fokus pada
 
-94 00:03:44,159 --&gt; 00:03:49,760 teknologi tanpa risiko. Dengan rencana untuk
+91
+00:03:37,280 --> 00:03:41,840
+pembelajaran berbasis pengalaman dengan menyediakan
 
-95 00:03:47,599 --&gt; 00:03:53,439 selesai pada akhir minggu kedua
+92
+00:03:39.599 --> 00:03:44,159
+cara mudah bagi masyarakat umum untuk
 
-96 00:03:49,760 --&gt; 00:03:55,599 dari Catalyst Fund 8 pada Februari 2022 tim akan
+93
+00:03:41,840 --> 00:03:47,599
+mengakses entrepreneurship dan blockchain
 
-97 00:03:53,439 --&gt; 00:03:57,360 mengajukan proposal ke Catalyst Fund
+94
+00:03:44,159 --> 00:03:49,760
+teknologi tanpa risiko. Dengan rencana untuk
 
-98 00:03:55,599 --&gt; 00:03:59.599 8 sebagai bagian dari pekerjaan mereka.
+95
+00:03:47,599 --> 00:03:53,439
+selesai pada akhir minggu kedua
 
-99 00:03:57,360 --&gt; 00:04:01,439 Di akhir acara minimal 15
+96
+00:03:49,760 --> 00:03:55,599
+dari Catalyst Fund 8 pada Februari 2022 tim akan
 
-100 00:03:59.599 --&gt; 00:04:03,599 tim telah berhasil menyelesaikan
+97
+00:03:53,439 --> 00:03:57,360
+mengajukan proposal ke Catalyst Fund
 
-101 00:04:01,439 --&gt; 00:04:05,120 proses pembuatan dan mengajukan proposal ke
+98
+00:03:55,599 --> 00:03:59,599
+8 sebagai bagian dari pekerjaan mereka.
 
-102 00:04:03,599 --&gt; 00:04:07,519 Catalyst Fund 8.
+99
+00:03:57,360 --> 00:04:01,439
+Di akhir acara minimal 15
 
-103 00:04:05,120 --&gt; 00:04:10,879 Individu menyelesaikan acara dengan
+100
+00:03:59.599 --> 00:04:03,599
+tim telah berhasil menyelesaikan
 
-104 00:04:07,519 --&gt; 00:04:13.519 keterampilan baru, koneksi dan inspirasi untuk
+101
+00:04:01,439 --> 00:04:05,120
+proses pembuatan dan mengajukan proposal ke
 
-105 00:04:10,879 --&gt; 00:04:15,519 melanjutkan perjalanan Cardano mereka
+102
+00:04:03,599 --> 00:04:07,519
+Catalyst Fund 8.
 
-106 00:04:13.519 --&gt; 00:04:18.079 Terima kasih banyak atas waktu Anda dan kami
+103
+00:04:05,120 --> 00:04:10,879
+Individu menyelesaikan acara dengan
 
-107 00:04:15,519 --&gt; 00:04:19,919 dengan rendah hati memohon bantuan voting anda.  Anda bisa temukan
+104
+00:04:07,519 --> 00:04:13,519
+keterampilan baru, koneksi dan inspirasi untuk
 
-108 00:04:18,079 --&gt; 00:04:22,960 proposal kami di tautan berikut dari
+105
+00:04:10,879 --> 00:04:15,519
+melanjutkan perjalanan Cardano mereka
 
-109 00:04:19,919 --&gt; 00:04:25,199 slide kami, silakan ajukan pertanyaan
+106
+00:04:13.519 --> 00:04:18,079
+Terima kasih banyak atas waktu Anda dan kami
 
-110 00:04:22,960 --&gt; 00:04:28,320 dan dengan senang hati kami ingin memberikan jawaban dan
+107
+00:04:15,519 --> 00:04:19,919
+dengan rendah hati memohon bantuan voting anda.  Anda bisa temukan
 
-111 00:04:25,199 --&gt; 00:04:31,440 jaminan. Mari kita kembangkan Cardano hingga
+108
+00:04:18,079 --> 00:04:22,960
+proposal kami di tautan berikut dari
 
-112 00:04:28,320 --&gt; 00:04:35,800 menjadi lebih tinggi dengan menumbuhkan Asia Timur
+109
+00:04:19,919 --> 00:04:25,199
+slide kami, silakan ajukan pertanyaan
 
-113 00:04:31,440 --&gt; 00:04:35,800 dengan kami sebagai alat Anda.
+110
+00:04:22,960 --> 00:04:28,320
+dan dengan senang hati kami ingin memberikan jawaban dan
+
+111
+00:04:25,199 --> 00:04:31,440
+jaminan. Mari kita kembangkan Cardano hingga
+
+112
+00:04:28,320 --> 00:04:35,800
+menjadi lebih tinggi dengan menumbuhkan Asia Timur
+
+113
+00:04:31,440 --> 00:04:35,800
+dengan kami sebagai alat Anda.

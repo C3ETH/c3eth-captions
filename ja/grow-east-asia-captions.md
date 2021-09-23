@@ -1,64 +1,27 @@
-1
-01:00:05,000 --> 01:00:06,500
-Hi i'm Tim O'Brien
+1 01:00:05,000 --&gt; 01:00:06,500 こんにちは、私は Tim O'Brienです
 
-2
-01:00:06,500 --> 01:00:08,000
-Xin chào tên tôi là tim
+2 01:00:06,500 --&gt; 01:00:08,000 Xin chào tên tôi là tim
 
-3
-01:00:08,750 --> 01:00:11,916
-The grow east asia grow, cardano proposal is for me.
+3 01:00:08,750 --&gt; 01:00:11,916 「The grow east asia grow, cardano」（東アジアを育て、Cardanoを育てよう）の提案は
 
-4
-01:00:11,916 --> 01:00:15,875
-one of the most important proposed categories in fund 7.
+4 01:00:11,916 --&gt; 01:00:15,875 ファンド7で最も重要な提案カテゴリーの一つです。
 
-5
-01:00:15,958 --> 01:00:23,416
-As a moderator of the eastern townhall. I meet every day 
-with experienced bright creatives who have unique solutions
+5 01:00:15,958 --&gt; 01:00:23,416 eastern townhallのモデレーターとして。私は毎日、ユニークな解決策を持った経験豊富な明るいクリエーターたちと会っています
 
-6
-01:00:23,416 --> 01:00:27,500
- that fit the needs of their local economies and culture.
+6 01:00:23,416 --&gt; 01:00:27,500 その地域の経済や文化に合ったユニークなソリューションです。
 
-7
-01:00:27,500 --> 01:00:35,083
-Everything from the complex distributed exchanges and NFT 
-product that address food traceablity.
+7 01:00:27,500 --&gt; 01:00:35,083 複雑な分散型取引所や、食品のトレーサビリティーに対応するNFT製品など、すべてです。
 
-8
-01:00:35,083 --> 01:00:39,208
-With a mixture of, on the one hand a mature economy of Japan
-  
+8 01:00:35,083 --&gt; 01:00:39,208 日本の成熟した経済の一方で、
 
-9
-01:00:39,208 --> 01:00:43,833
-and areas of hyper-growth on the other like Vietnam and 
-Indonesia. 
+9 01:00:39,208 --&gt; 01:00:43,833 ベトナムやインドネシアのような高成長の地域が混在しています。
 
-10
-01:00:43,833 --> 01:00:47,916
-South East Asia is the perfect place to extend the reach of 
-Cardano.
+10 01:00:43,833 --&gt; 01:00:47,916 東南アジアは、Cardanoのリーチを広げるのに最適な場所です。
 
-11
-01:00:47,916 --> 01:00:52,125
-South East Asia's rich and diverse cultures and economic 
-systems
+11 01:00:47,916 --&gt; 01:00:52,125 東南アジアには豊かで多様な文化や経済システムがあります。
 
-12
-01:00:52,125 --> 01:00:56,458
-really warrant having there own fun that target local 
-challenges.
+12 01:00:52,125 --&gt; 01:00:56,458 ローカルな課題をターゲットにした独自の楽しい提案を持つことは本当に価値があります。
 
-13
-01:00:56,458 --> 01:01:00,791
-If you agree please vote for grow south east asia grow 
-cardano.
+13 01:00:56,458 --&gt; 01:01:00,791 賛成される方は、「grow South east asia grow cardano」に投票してください。
 
-14
-01:01:00,791 --> 01:01:01,458
-Thank you.
-
+14 01:01:00,791 --&gt; 01:01:01,458 ありがとうございました。

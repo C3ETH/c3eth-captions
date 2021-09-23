@@ -1,96 +1,39 @@
-1
-00:00:04,583 --> 00:00:08,833
-Hello This  is “Eastern Townhall Team Operation” Team!
+1 00:00:04,583 --&gt; 00:00:08,833 こんにちは、 “Eastern Townhall Team Operation”（東部タウンホール運営）の提案のチームです!
 
-2
-00:00:09,833 --> 00:00:12,333
-Our Problem statement is that
+2 00:00:09,833 --&gt; 00:00:12,333 私たちの問題提起は、
 
-3
-00:00:12,333 --> 00:00:21,125
-Participating in Catalyst is difficult when you live in the 
-eastern time zone and your language is not English.
+3 00:00:12,333 --&gt; 00:00:21,125 あなたが東部地域に住んでおり英語を話していないと、Catalystへの参加が難しいということです。
 
-4
-00:00:21,125 --> 00:00:25,541
-For example, in a survey conducted by the Japanese 
-community.
+4 00:00:21,125 --&gt; 00:00:25,541 例えば、日本で行われた調査では
 
-5
-00:00:25,541 --> 00:00:32,000
-half said that lack of translation was the biggest problem 
-for Catalyst.
+5 00:00:25,541 --&gt; 00:00:32,000 半数の方が、翻訳の不足がCatalystの最大の問題であると答えています。
 
-6
-00:00:32,291 --> 00:00:39,541
-Normal town halls are in the eastern hemisphere at midnight.
+6 00:00:32,291 --&gt; 00:00:39,541 通常のタウンホールは、東半球では深夜に行われます。
 
-7
-00:00:39,833 --> 00:00:48,416
-And, Thirty percent of Japanese voting participants vote 
-randomly without thinking just to get paid.
+7 00:00:39,833 --&gt; 00:00:48,416 そして、日本の投票参加者の3割は、お金をもらうために何も考えずに無作為に投票しているそうです。
 
-8
-00:00:48,583 --> 00:00:57,833
-The solution to that is Eastern Townhall supports eastern 
-countries with events, and translating content.
+8 00:00:48,583 --&gt; 00:00:57,833 それを解決するために、Eastern Townhallは東部の国々をイベントでサポートしたり、コンテンツを翻訳したりしています。
 
-9
-00:00:58,333 --> 00:01:08,208
-The aim is to increase participants by 20% for each fund.
+9 00:00:58,333 --&gt; 00:01:08,208 ファンドごとに参加者を20％増やすことを目標にしています。
 
-10
-00:01:08,541 --> 00:01:15,333
-As a related experience our team is made up of people from 
-diverse backgrounds.
+10 00:01:08,541 --&gt; 00:01:15,333 関連する経験として、私たちは多様なバックグラウンドを持つチームで構成されています。例えば、
 
-11
-00:01:15,583 --> 00:01:21,500
-Co-Founders of Catalyst Swarm, Eastern Townhall, Catalyst 
-School. 
+11 00:01:15,583 --&gt; 00:01:21,500 Catalyst Swarm、Eastern Townhall、Catalyst Schoolの共同設立者や
 
-12
-00:01:21,500 --> 00:01:28,291
-T & Software Engineering. educators and accountant in East 
-Asia & Japan.
+12 00:01:21,500 --&gt; 00:01:28,291 T &amp; ソフトウェアエンジニア、教育者、日本公認会計士です。
 
-13
-00:01:28,500 --> 00:01:35,291
-This activity has already begun and the sixth meetup has 
-already taken place.
+13 00:01:28,500 --&gt; 00:01:35,291 この活動はすでに始まっていて、6回目のミートアップが行われています。
 
-14
-00:01:36,250 --> 00:01:40,625
-Again, Due to linguistic barriers, a survey of the Japanese 
-community
+14 00:01:36,250 --&gt; 00:01:40,625 繰り返しになりすが、言語の壁があるため、日本のコミュニティを対象とした調査では
 
-15
-00:01:40,625 --> 00:01:46,666
-that 30% of voters vote randomly without looking at the 
-proposal.
+15 00:01:40,625 --&gt; 00:01:46,666 投票者の30%が議案を見ずに無作為に投票していることが判明しています。
 
-16
-00:01:46,666 --> 00:01:55,541
-The fact that East Asia is the birthplace of Cardano and has
- many ADAs
+16 00:01:46,666 --&gt; 00:01:55,541 東アジアはCardano発祥の地であり、ADA保有者が多いということを
 
-17
-00:01:55,541 --> 00:02:05,375
-Given these, helping the Eastern Hemisphere participate in 
-Catalyst is a very urgent and important issue for the honest
+17 00:01:55,541 --&gt; 00:02:05,375 踏まえると、東半球がCatalystに参加することを支援することは、素直に非常に緊急かつ重要な課題であると考えられます
 
-18
-00:02:05,375 --> 00:02:14,750
-Proposers of the Not only for the eastern hemisphere but 
-also for the western hemisphere.
+18 00:02:05,375 --&gt; 00:02:14,750 東半球だけでなく、西半球の提案者にとっても同様です。
 
-19
-00:02:14,750 --> 00:02:22,125
-We will increase the quantity and quality of participants in
- the Eastern Hemisphere region.
+19 00:02:14,750 --&gt; 00:02:22,125 東半球地域のCatalystの参加者の量と質を高めていきます。
 
-20
-00:02:22,125 --> 00:02:32,083
-Thank you for the opportunity to present at the wonderful 
-summit. Let's liven up Catalyst together! Thank you.
-
+20 00:02:22,125 --&gt; 00:02:32,083 素晴らしいサミットで発表する機会をいただき、ありがとうございました。一緒にCatalystを盛り上げていきましょう! ありがとうございました。

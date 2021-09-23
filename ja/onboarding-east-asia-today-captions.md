@@ -1,287 +1,125 @@
-1
-00:00:05,625 --> 00:00:10,333
-Kia ora koutou katoa, I'm Robert O'Brien, a member of the 
-Eastern Townhall team. 
+1 00:00:05,625 --&gt; 00:00:10,333 Kia ora koutou katoa, 私は Robert O'Brien, でEastern Townhall teamのメンバーです。
 
-2
-00:00:10,333 --> 00:00:12,291
-from Aotearoa, New Zealand.
+2 00:00:10,333 --&gt; 00:00:12,291 ニュージーランドのアオテアロアから来ました。
 
-3
-00:00:12,916 --> 00:00:19,250
-In the fund 6 multilingual resources challenge the Eastern 
-Townhall has the proposal “Onboarding East Asia Today!”
+3 00:00:12,916 --&gt; 00:00:19,250 ファンド6の多言語リソースの課題で、Eastern Townhallは、"Onboarding East Asia Today!"という提案をしています。
 
-4
-00:00:19,666 --> 00:00:21,833
-Asia is culturally diverse. 
+4 00:00:19,666 --&gt; 00:00:21,833 アジアは文化的に多様です。
 
-5
-00:00:21,833 --> 00:00:26,541
-The language, customs, technology adoption, and economic 
-development covers the spectrum. 
+5 00:00:21,833 --&gt; 00:00:26,541 言語、習慣、技術の導入、経済発展など、多岐にわたります。
 
-6
-00:00:27,458 --> 00:00:28,708
-Two things stand out though.
+6 00:00:27,458 --&gt; 00:00:28,708 しかし、2つのことが際立っています。
 
-7
-00:00:28,958 --> 00:00:29,500
-First.
+7 00:00:28,958 --&gt; 00:00:29,500 一つ目。
 
-8
-00:00:30,166 --> 00:00:32,333
-First, English proficiency is mixed. 
+8 00:00:30,166 --&gt; 00:00:32,333 まず、英語力がまちまちであること。
 
-9
-00:00:32,333 --> 00:00:35,375
-Across Asia, English is not widely spoken, 
+9 00:00:32,333 --&gt; 00:00:35,375 アジア全体では、英語はあまり使われていません
 
-10
-00:00:35,958 --> 00:00:39,000
-rather a web of regional dialects are used instead.
+10 00:00:35,958 --&gt; 00:00:39,000 その代わりに、さまざまな地域の言語が使われています。
 
-11
-00:00:39,750 --> 00:00:44,750
-Second, Communities across Asia want to get involved in the 
-Cardano ecosystem. 
+11 00:00:39,750 --&gt; 00:00:44,750 第二に、アジア中のコミュニティがCardanoのエコシステムに参加したいと考えています。
 
-12
-00:00:45,208 --> 00:00:51,458
-For example, despite a large population, few proposals from 
-our region have been submitted to Catalyst.
+12 00:00:45,208 --&gt; 00:00:51,458 例えば、人口が多いにもかかわらず、私たちの地域からCatalystに提出された提案はほとんどありません。
 
-13
-00:00:51,833 --> 00:00:55,750
-The language barrier introduces friction, reducing 
-participation.
+13 00:00:51,833 --&gt; 00:00:55,750 言語の壁が摩擦をもたらし、参加率を低下させます。
 
-14
-00:00:56,375 --> 00:01:01,875
-We want to embrace the energy and perspectives of 
-non-English speaking communities across Cardano.
+14 00:00:56,375 --&gt; 00:01:01,875 英語を話さないコミュニティのエネルギーや視点を、Cardanoノ全体で受け入れたいと考えています。
 
-15
-00:01:02,291 --> 00:01:08,958
-A step toward that is to translate and localise content into
- the languages of the East Asian region and beyond.
+15 00:01:02,291 --&gt; 00:01:08,958 そのための一歩として、コンテンツを東アジア地域やそれ以外の言語に翻訳し、ローカライズすることを考えています。
 
-16
-00:01:08,958 --> 00:01:11,250
-Or go the other way, into English.
+16 00:01:08,958 --&gt; 00:01:11,250 あるいは逆に、英語にします。
 
-17
-00:01:11,250 --> 00:01:12,500
-That is not a small undertaking.
+17 00:01:11,250 --&gt; 00:01:12,500 それは決して小さな仕事ではありません。
 
-18
-00:01:13,208 --> 00:01:19,708
-Our proposal is seeking funding to build and document an 
-open-source streamlined process for content translation.
+18 00:01:13,208 --&gt; 00:01:19,708 私たちの提案は、コンテンツ翻訳のためのオープンソースの合理的なプロセスを構築し、文書化するための資金を求めています。
 
-19
-00:01:19,708 --> 00:01:22,791
-To coordinate and make the translation process easier.
+19 00:01:19,708 --&gt; 00:01:22,791 翻訳プロセスを調整し、より簡単にするためです。
 
-20
-00:01:22,791 --> 00:01:25,125
-To do that we're setting up a workflow with the aim of
+20 00:01:22,791 --&gt; 00:01:25,125 そのために、次のような目的でワークフローを設定しています。
 
-21
-00:01:25,125 --> 00:01:32,750
-getting the community at large to translate documentation, 
-guides and, yes, Catalyst proposals.
+21 00:01:25,125 --&gt; 00:01:32,750 ドキュメンテーション、ガイド、そしてそう、Catalystプロポーザルの翻訳をコミュニティ全体で行います。
 
-22
-00:01:32,750 --> 00:01:39,500
-We already have a simple process set up using open-source 
-development tools - git, Hugo and GitHub actions. 
+22 00:01:32,750 --&gt; 00:01:39,500 オープンソースの開発ツール（git、Hugo、GitHubアクション）を使ったシンプルなプロセスがすでに設定されています。
 
-23
-00:01:39,500 --> 00:01:46,291
-Our new website is constantly evolving and we are 
-translating the content as we go with these tools. 
+23 00:01:39,500 --&gt; 00:01:46,291 私たちの新しいウェブサイトは常に進化しており、これらのツールを使ってコンテンツを翻訳しながら進めています。
 
-24
-00:01:46,291 --> 00:01:48,041
-Learning by doing.
+24 00:01:46,291 --&gt; 00:01:48,041 やってみることで学ぶ。
 
-25
-00:01:48,333 --> 00:01:53,958
-Try it out and view this proposal in English, Japanese, 
-Korean, Indonesian, and Vietnamese.
+25 00:01:48,333 --&gt; 00:01:53,958 T試しに、この提案を英語、日本語、韓国語、インドネシア語、ベトナム語で見てみましょう。
 
-26
-00:01:54,250 --> 00:01:57,750
-This video also has captions for all those languages too.
+26 00:01:54,250 --&gt; 00:01:57,750 このビデオには、それらの言語のキャプションもあります。
 
-27
-00:01:58,625 --> 00:02:01,583
-And each fund 6 proposal that you'll find on our website, 
+27 00:01:58,625 --&gt; 00:02:01,583 そして、私たちのウェブサイトに掲載されている各ファンド6の提案。
 
-28
-00:02:02,041 --> 00:02:02,541
-Well,
+28 00:02:02,041 --&gt; 00:02:02,541 さて、
 
-29
-00:02:02,791 --> 00:02:07,875
-They were developed, proposed and presented with the 
-perspectives of our Eastern townhall team members. 
+29 00:02:02,791 --&gt; 00:02:07,875 これらは、東部のタウンホールチームのメンバーの視点で開発、提案、発表されたものです。
 
-30
-00:02:08,291 --> 00:02:10,708
-Designed to meet our local needs.
+30 00:02:08,291 --&gt; 00:02:10,708 地域のニーズに合わせて設計されています。
 
-31
-00:02:10,875 --> 00:02:15,625
-We want to do more, so we need to improve upon our current 
-practice.
+31 00:02:10,875 --&gt; 00:02:15,625 もっとやりたいから、今のやり方を改善する必要があります。
 
-32
-00:02:15,625 --> 00:02:22,791
-Cardano and Catalyst content grows with every fund so 
-automating as much as possible helps us scale.
+32 00:02:15,625 --&gt; 00:02:22,791 ardanoとCatalystのコンテンツはファンドごとに増えていくので、できる限り自動化することがスケールアップにつながります。
 
-33
-00:02:22,791 --> 00:02:28,791
-We want to queue up a piece of work for translation and 
-enable everyone and anyone to contribute.
+33 00:02:22,791 --&gt; 00:02:28,791 翻訳のための作品をキューに入れて、誰もが貢献できるようにしたいです。
 
-34
-00:02:29,250 --> 00:02:33,166
-That way we can leverage the communities talent and 
-knowledge to help.
+34 00:02:29,250 --&gt; 00:02:33,166 そうすれば、コミュニティの才能や知識を活用することができます。
 
-35
-00:02:33,416 --> 00:02:39,333
-But we have to start small first, experiment, and find what 
-works before scaling out.
+35 00:02:33,416 --&gt; 00:02:39,333 でも、まずは小さく始めて、実験して、うまくいく方法を見つけてからスケールアウトしなければなりません。
 
-36
-00:02:39,333 --> 00:02:42,666
-The Eastern Townhall is a collaborative effort. 
+36 00:02:39,333 --&gt; 00:02:42,666 The Eastern Townhallは共同作業です。
 
-37
-00:02:42,958 --> 00:02:46,791
-The team represents a wealth of cultural and technical 
-expertise. 
+37 00:02:42,958 --&gt; 00:02:46,791 チームは文化的、技術的な専門知識を豊富に持っています。
 
-38
-00:02:47,208 --> 00:02:51,666
-Japan, Indonesia, Vietnam, Korea, Australia, New Zealand are
- all represented. 
+38 00:02:47,208 --&gt; 00:02:51,666 日本、インドネシア、ベトナム、韓国、オーストラリア、ニュージーランドの代表が集まっています。
 
-39
-00:02:52,458 --> 00:02:54,041
-And more communities to come. 
+39 00:02:52,458 --&gt; 00:02:54,041 さらに多くのコミュニティが参加しています。
 
-40
-00:02:55,291 --> 00:02:57,666
-By virtue of running the Eastern Townhall, and other
+40 00:02:55,291 --&gt; 00:02:57,666 Eastern Townhallを運営していることや、その他の
 
-41
-00:02:57,666 --> 00:03:01,583
-community groups, we are all active in the Catalyst 
-experiment. 
+41 00:02:57,666 --&gt; 00:03:01,583 コミュニティ・グループを運営することで、私たちは皆、Catalystの実験に積極的に参加しています。
 
-42
-00:03:02,166 --> 00:03:06,083
-The team will be working on establishing a semi-automated 
-translation pipeline.
+42 00:03:02,166 --&gt; 00:03:06,083 半自動化された翻訳パイプラインの確立を目指しています。
 
-43
-00:03:06,416 --> 00:03:08,208
-Starting with Git and Github. 
+43 00:03:06,416 --&gt; 00:03:08,208 GitとGithubから始めます。
 
-44
-00:03:08,625 --> 00:03:13,333
-We also want to document the process to make it easier to 
-train translators. 
+44 00:03:08,625 --&gt; 00:03:13,333 また、翻訳者の育成を容易にするため、プロセスを文書化したいと考えています。
 
-45
-00:03:13,333 --> 00:03:20,208
-Documentation, tutorials, video content will play a 
-pivotal in onboarding new people with diverse backgrounds. 
+45 00:03:13,333 --&gt; 00:03:20,208 キュメント、チュートリアル、ビデオコンテンツは、多様なバックグラウンドを持つ新しい人たちを迎え入れる上で極めて重要な役割を果たします。
 
-46
-00:03:20,750 --> 00:03:26,625
-As we do, we'll start to add more languages, getting members
- of the Cardano community to help out.
+46 00:03:20,750 --&gt; 00:03:26,625 順次、言語を追加していき、カルダノコミュニティのメンバーにも協力してもらいながら進めていきます。
 
-47
-00:03:27,208 --> 00:03:30,291
-Long-term the project itself can be self-sustaining.
+47 00:03:27,208 --&gt; 00:03:30,291 長期的にはプロジェクト自体が自立できるようになります。
 
-48
-00:03:30,291 --> 00:03:37,083
-Leveraging our expertise and services to other projects, 
-proposals, DAO's or traditional businesses even. 
+48 00:03:30,291 --&gt; 00:03:37,083 自分の専門知識やサービスを他のプロジェクトや提案、DAOや従来のビジネスにまで活用します。
 
-49
-00:03:37,083 --> 00:03:38,750
-Why not learn and earn?  
+49 00:03:37,083 --&gt; 00:03:38,750 学んで稼いでみませんか？
 
-50
-00:03:39,125 --> 00:03:42,375
-We have a blockchain accounting layer, so why not contribute
- 
+50 00:03:39,125 --&gt; 00:03:42,375 ブロックチェーンの会計層がありますので、貢献してみませんか？
 
-51
-00:03:42,375 --> 00:03:46,458
-to the Cardano ecosystem via completion of translations 
-tasks,
+51 00:03:42,375 --&gt; 00:03:46,458 翻訳タスクをこなしてCardanoのエコシステムに貢献してみませんか？
 
-52
-00:03:46,458 --> 00:03:49,833
- learn at the same time, and earn some coin.
+52 00:03:46,458 --&gt; 00:03:49,833 学ぶと同時に、コインを稼ぎましょう。
 
-53
-00:03:49,833 --> 00:03:51,958
-In terms of what success looks like
+53 00:03:49,833 --&gt; 00:03:51,958 成功とはどのようなものかというと
 
-54
-00:03:51,958 --> 00:03:58,250
-our metrics will be defined by the project's velocity and 
-engagement happening during and after the initial funding.
+54 00:03:51,958 --&gt; 00:03:58,250 私たちの評価基準は、最初の資金調達の間とその後に起こったプロジェクトの速度とエンゲージメントによって定義されます。
 
-55
-00:03:58,541 --> 00:04:04,500
-Since we’re using collaboration tools for our planning and 
-documentation, the metrics are derived from activity 
+55 00:03:58,541 --&gt; 00:04:04,500 コラボレーションツールを使って計画と文書化を行っているので、メトリクスはアクティビティから導き出されます。
 
-56
-00:04:04,500 --> 00:04:06,166
-recorded with these tools. 
+56 00:04:04,500 --&gt; 00:04:06,166 これらのツールで記録された活動から得られた指標です。
 
-57
-00:04:06,375 --> 00:04:08,500
-We can also track project contributions.
+57 00:04:06,375 --&gt; 00:04:08,500 プロジェクトへの貢献度も把握できます。
 
-58
-00:04:09,416 --> 00:04:11,041
-At least some aspects of it.
+58 00:04:09,416 --&gt; 00:04:11,041 少なくとも一部の面では。
 
-59
-00:04:11,041 --> 00:04:17,041
-So perhaps we'll start issuing NFT Badges for representing 
-language skills and contributions to the community. 
+59 00:04:11,041 --&gt; 00:04:17,041 そこで、言語能力やコミュニティへの貢献を表すNFTバッジを発行するようになるかもしれません。
 
-60
-00:04:17,541 --> 00:04:18,416
-In summary,
+60 00:04:17,541 --&gt; 00:04:18,416 まとめます。
 
-61
-00:04:18,625 --> 00:04:23,125
-we will be building a translation pipeline to help engage 
-with East Asian communities. 
+61 00:04:18,625 --&gt; 00:04:23,125 私たちは、東アジアのコミュニティに参加するための翻訳パイプラインを構築します。
 
-62
-00:04:23,791 --> 00:04:26,875
-Bridging the language and cultural barriers in our 
-ecosystem.
+62 00:04:23,791 --&gt; 00:04:26,875 私たちのエコシステムにおける言語と文化の壁を取り除きます。
 
-63
-00:04:27,500 --> 00:04:32,208
-Helping us to participate and contribute to the success of 
-the Cardano network.
-
+63 00:04:27,500 --&gt; 00:04:32,208 私たちがCardanoネットワークに参加し、成功に貢献するのを助けます。
